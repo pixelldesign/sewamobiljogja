@@ -25,9 +25,10 @@ Lokasi tempat pengambilan dan pengembalian mobil harus jelas dan informasi ini h
 8. Syarat dan ketentuan penyewaan mobil
 Situs sewa mobil harus menyertakan syarat dan ketentuan penyewaan mobil sebagai panduan bagi pelanggan dan untuk menjaga transaksi yang teratur.
 
-9. Informasi kontak pelanggan untuk pertanyaan atau keluhan: 
-Situs sewa mobil harus dikontak oleh pelanggan kapan saja jika mereka memiliki pertanyaan atau keluhan tentang layanan. Pesan akan cepat jika situs menyediakan metode kontak yang mudah.
+9. Informasi kontak pelanggan
+Situs sewa mobil harus dikontak oleh pelanggan kapan saja jika mereka memiliki pertanyaan atau ingin memesan sewa mobik. Pesan akan cepat jika situs menyediakan metode kontak yang mudah.
 
-10. Fitur-fitur tambahan yang ditawarkan seperti GPS, baby seat, dan lain-lain
-Menampilkan berbagai fitur tambahan yang dapat disewa seperti GPS, baby seat, atau barang lain yang mungkin dibutuhkan oleh pelanggan ketika mengendarai mobil.
+10. Media Sosial Terkait 
+Menampilkan berbagai fitur media sosial untuk menampilkan keseharian penyedia sewa mobil terkait seperti contoh dibawah ini :
+Instagram : https://www.instagram.com/alindstransportjogja
 
