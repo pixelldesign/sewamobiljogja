@@ -1,5 +1,5 @@
 # sewamobiljogja
-RANGKUMAN INFORMASI YANG TERCANTUM DALAM HALAMAN SITUS SEWA MOBIL
+RANGKUMAN INFORMASI YANG TERCANTUM DALAM HALAMAN SITUS SEWA MOBIL ALINDS TRANSPORT
 
 1. Daftar mobil yang tersedia
 Situs sewa mobil akan menampilkan daftar mobil yang tersedia dengan berbagai jenis dan kapasitas. Ketersediaan mobil juga harus diupdate secara berkala agar pelanggan mendapatkan informasi yang akurat.
@@ -31,4 +31,5 @@ Situs sewa mobil harus dikontak oleh pelanggan kapan saja jika mereka memiliki p
 10. Media Sosial Terkait 
 Menampilkan berbagai fitur media sosial untuk menampilkan keseharian penyedia sewa mobil terkait seperti contoh dibawah ini :
 Instagram : https://www.instagram.com/alindstransportjogja
+Website :https://www.alindstransport.com
 
